@@ -1,1 +1,28 @@
-# 🤖 AI Resume Screener  ## Overview Intelligent system to screen and rank resumes against job requirements.  ## Features - 🎯 TF-IDF based similarity matching - 💼 60+ skill extraction - 📊 Automatic ranking - 📈 Performance visualization  ## How to Use 1. Select job position 2. Click "Screen Resumes" 3. Review ranking and scores  ## Scoring - **70-100%**: Excellent match - **50-69%**: Moderate match - **0-49%**: Poor match  ## Technologies - Python, Scikit-learn - TF-IDF, Cosine Similarity - Matplotlib, Gradio  ## Author Data Science Intern @ Sqrock IT Solutions
+# 🤖 AI Resume Screener
+
+## Overview
+Intelligent system to screen and rank resumes against job requirements.
+
+## Features
+- 🎯 TF-IDF based similarity matching
+- 💼 60+ skill extraction
+- 📊 Automatic ranking
+- 📈 Performance visualization
+
+## How to Use
+1. Select job position
+2. Click "Screen Resumes"
+3. Review ranking and scores
+
+## Scoring
+- **70-100%**: Excellent match
+- **50-69%**: Moderate match
+- **0-49%**: Poor match
+
+## Technologies
+- Python, Scikit-learn
+- TF-IDF, Cosine Similarity
+- Matplotlib, Gradio
+
+## Author
+Data Science Intern @ Sqrock IT Solutions
